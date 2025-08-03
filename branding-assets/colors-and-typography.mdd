@@ -1,10 +1,43 @@
-# Colors & Typography 🎨
+# SecuriSurf AI – Branding Assets
 
-## 🌊 Colors
-- **Primary**: Ocean Blue (`#2E86AB`)
-- **Secondary**: Soft Aqua (`#4CC9F0`)
-- **Accent:** Coral Pink (`#FF6B6B`) and Surf Foam White (`#F2F4F3`)
+## 1. Typography
 
-## 🔤 Typography
-- **Header Font**: Poppins (Bold)
-- **Body Font**: Roboto (Regular)
+**Primary Font:**  
+- **Montserrat Bold** – For headings, logo text, and call-to-action buttons  
+- Style: Clean, modern, geometric sans-serif
+
+**Secondary Font:**  
+- **Open Sans** – For body text and descriptions  
+- Style: Friendly, highly legible on both desktop and mobile
+
+**Optional Accent Font:**  
+- **Fira Code (Monospace)** – For technical code snippets, CLI outputs, or security lab demos
+
+---
+
+## 2. Color Palette
+
+| Purpose                  | Color                  | Hex       |
+|--------------------------|----------------------|-----------|
+| **Primary Brand Color**   | Cyber Blue           | `#007BFF` |
+| **Secondary Accent**      | Aqua Surf            | `#00E6C3` |
+| **Highlight/CTA**         | Safety Yellow        | `#FFD600` |
+| **Background (Light)**    | Soft Gray            | `#F4F6F8` |
+| **Background (Dark)**     | Deep Navy            | `#0D1B2A` |
+| **Error/Alert**           | Security Red         | `#FF4C4C` |
+
+**Usage Tips:**  
+- Primary brand color (Cyber Blue) for headings, primary buttons, and key UI elements.  
+- Aqua Surf for secondary highlights and accent icons.  
+- Safety Yellow for CTAs like “Start Security Checkup” to grab attention.  
+- Deep Navy or Soft Gray for backgrounds depending on dark/light mode.  
+
+---
+
+## 3. Logo Integration
+
+- **Logo Icon**: Use the AI-generated surf shield or wave-shield icon you uploaded.  
+- **Logo Text Treatment**:  
+  - SecuriSurf in **Montserrat Bold, Cyber Blue**  
+  - AI in **Aqua Surf**  
+- Works on both **light and dark backgrounds**.
