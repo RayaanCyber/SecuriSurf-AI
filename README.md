@@ -4,7 +4,7 @@ Friendly cybersecurity chatbot for home users and junior IT students. "Surf safe
 
 *"Surf safe, stay secure."*
 
-![SecuriSurf AI Logo](branding-assets/SecuriSafeAILogo.png)
+![SecuriSurf AI Logo](branding-assets/logo.png.png)
 
 ## 📌 Overview
 
